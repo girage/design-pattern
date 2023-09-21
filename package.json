@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test":  "node ./dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
